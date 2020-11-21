@@ -19,14 +19,23 @@ For debug/testing, better setup: in front on PC, connect with Oculus Link, enter
   At start, right touch A + trigger
 
   Nunchuck Control stick: Move --> Left thumbstick
+
   Nunchuck C button: Reset Camera --> Left trigger
+
   Nunchuck Z button: Crouch, water dive --> Left grip
+
   WiiMote Grab star bits --> Y and use the right thumbstick.
+
   WiiMote Control pad: Move Camera --> OK, right thumbstick
+
   WiiMote A button: Jump: --> A on right touch
+
   WiiMote + or - button: Pause menu --> Y on left touch
+
   WiiMote B button: Shoot star bits --> Right trigger
+
   WiiMote Shake --> grip on right touch. TODO: real shake
+  
   
 Mapping based on Mario All Stars button are under evaluation.  
 
