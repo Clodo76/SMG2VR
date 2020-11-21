@@ -1,0 +1,1 @@
+Place here the .iso of SMG2. Don't ask me, it's under copyright.
